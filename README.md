@@ -6,7 +6,7 @@ _______________________________________________
 
 1. Clone repository
     
-    git clone https://github.com/marcko/SailsApp-docker.git
+    git clone https://github.com/marcko/Fotos.git
 
 2.  Create volumen container data 
 
