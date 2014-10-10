@@ -6,6 +6,8 @@
  */
 
 module.exports = {
-	
-};
+	index: function(req, res){
+		return res.view('index',{title:"Begin development of the project photo stock"});
+	}
 
+};
